@@ -1,0 +1,14 @@
+/home/soares/Documentos/Celurar/bin/Debug/net8.0/Celurar
+/home/soares/Documentos/Celurar/bin/Debug/net8.0/Celurar.deps.json
+/home/soares/Documentos/Celurar/bin/Debug/net8.0/Celurar.runtimeconfig.json
+/home/soares/Documentos/Celurar/bin/Debug/net8.0/Celurar.dll
+/home/soares/Documentos/Celurar/bin/Debug/net8.0/Celurar.pdb
+/home/soares/Documentos/Celurar/obj/Debug/net8.0/Celurar.GeneratedMSBuildEditorConfig.editorconfig
+/home/soares/Documentos/Celurar/obj/Debug/net8.0/Celurar.AssemblyInfoInputs.cache
+/home/soares/Documentos/Celurar/obj/Debug/net8.0/Celurar.AssemblyInfo.cs
+/home/soares/Documentos/Celurar/obj/Debug/net8.0/Celurar.csproj.CoreCompileInputs.cache
+/home/soares/Documentos/Celurar/obj/Debug/net8.0/Celurar.dll
+/home/soares/Documentos/Celurar/obj/Debug/net8.0/refint/Celurar.dll
+/home/soares/Documentos/Celurar/obj/Debug/net8.0/Celurar.pdb
+/home/soares/Documentos/Celurar/obj/Debug/net8.0/Celurar.genruntimeconfig.cache
+/home/soares/Documentos/Celurar/obj/Debug/net8.0/ref/Celurar.dll
